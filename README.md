@@ -8,8 +8,11 @@
 Numbers list should be a .txt file and in this format WITHOUT country code (+91)
 
 9876543210
+
 9827367390
+
 8817263555
+
 9102837467
 
 Just down executable file Whatsapp Blaster - by Manthan Diyora and geckodriver.exe and put it in same folder.
