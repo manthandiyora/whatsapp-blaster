@@ -5,6 +5,8 @@
 3. The software can save time and effort for the user, especially if they need to send a large number of documents or to a large number of contacts on WhatsApp.
 4. The software is in the form of an executable file (.exe) which can be run on any Windows computer without requiring any additional setup or installation.
 
+Note - If you want to send 2 documents to all contacts you will get popup 2 times to select those documents, in first popup select the first document like pdf or anything you want to send and in second popup select the other and so forth
+
 Numbers list should be a .txt file and in this format WITHOUT country code (+91)
 
 9876543210
